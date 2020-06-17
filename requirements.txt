@@ -1,5 +1,6 @@
 ###### Requirements without version specifiers ######
 flask
+flask-wtf
 python-dotenv
 
 ###### Requirements with version specifiers
